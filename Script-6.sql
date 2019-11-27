@@ -1,0 +1,1 @@
+select ceiling(avg(years_served)) from president
