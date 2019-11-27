@@ -1,0 +1,1 @@
+select * from pres_hobby
